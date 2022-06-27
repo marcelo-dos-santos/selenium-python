@@ -1,4 +1,4 @@
-# Selenium with Python desu
+# Selenium with Python
  Automation script created for study purposes and for a technical evaluation utilizing oracle website
 
 
